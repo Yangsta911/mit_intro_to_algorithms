@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: python-boilerplate
+Version: 0.1
+Author: Keath Milligan
+Provides-Extra: dev
+License-File: LICENSE
